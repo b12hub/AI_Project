@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38bd4085-791e-4c19-8085-ecd9786adf2e" name="Changes" comment="Data Cleaning Phase 2 [BLOCK 2.2]" />
+    <list default="true" id="38bd4085-791e-4c19-8085-ecd9786adf2e" name="Changes" comment="Feature Engineering all Phases completed .">
+      <change afterPath="$PROJECT_DIR$/Leakage_and_Temporal_Audit.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression_Evolutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Visualizations/data_quality_viz.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Analysis_Report.md" beforeDir="false" afterPath="$PROJECT_DIR$/Documentations/Analysis_Report.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cleaning_Report.md" beforeDir="false" afterPath="$PROJECT_DIR$/Documentations/Cleaning_Report.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Cleaning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Cleaning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Quality_changes.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets_Comparing.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Feature_Target_Spliting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Feature_Target_Spliting.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Feauture_Engineering_Phase_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Feauture_Engineering_BLOCK-2.3.1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Feauture_Engineering_Phase_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Feauture_Engineering_Phase_2.3.2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Feauture_Engineering_Phase_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Feauture_Engineering_Phase_2.3.3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operational_&amp;_Vehicle_Interaction_FE.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Operational_&amp;_Vehicle_Interaction_FE.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spatial_Feature_Engineering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Spatial_Feature_Engineering.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/clean_data_v1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset/clean_data_v1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/clean_data_v2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset/clean_data_v2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/feature_data_v1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset/feature_data_v1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/feature_data_v2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset/feature_data_v2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/feature_data_v3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset/feature_data_v3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/feature_data_v4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset/feature_data_v4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/raw_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset/raw_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/visualizations/comparison_analysis.png" beforeDir="false" afterPath="$PROJECT_DIR$/Visualizations/comparison_analysis.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/visualizations/data_quality_viz.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,22 +45,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "state": "OPEN",
-      "assignee": "b12hub",
-      "author": "b12hub"
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;b12hub&quot;,
+      &quot;author&quot;: &quot;b12hub&quot;
     }
   ],
-  "lastFilter": {}
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/b12hub/AI_Project.git",
-    "accountId": "0788aab4-cf2b-4ee4-8763-e5f9f3303655"
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/b12hub/AI_Project.git&quot;,
+    &quot;accountId&quot;: &quot;0788aab4-cf2b-4ee4-8763-e5f9f3303655&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -49,6 +74,7 @@
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -68,14 +94,16 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Documentations" />
+      <recent name="$PROJECT_DIR$/visualizations" />
       <recent name="$PROJECT_DIR$/dataset" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106" />
-        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-PY-252.28539.27" />
+        <option value="bundled-python-sdk-07523f343e4f-968fe969f28a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.28539.27" />
       </set>
     </attachedChunks>
   </component>
@@ -88,6 +116,13 @@
       <updated>1767613067110</updated>
       <workItem from="1767613068518" duration="2082000" />
       <workItem from="1767630561964" duration="1469000" />
+      <workItem from="1767684023979" duration="577000" />
+      <workItem from="1767685372879" duration="1889000" />
+      <workItem from="1767687513987" duration="321000" />
+      <workItem from="1767700125479" duration="468000" />
+      <workItem from="1767700751522" duration="1589000" />
+      <workItem from="1767703439929" duration="163000" />
+      <workItem from="1767710453424" duration="4510000" />
     </task>
     <task id="LOCAL-00001" summary="Data Collecting Phase 1 [BLOCK 2.1]">
       <option name="closed" value="true" />
@@ -105,7 +140,47 @@
       <option name="project" value="LOCAL" />
       <updated>1767631977915</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge branch 'master' of https://github.com/b12hub/AI_Project&#10;Phase 2 - Data Cleaning [BLOCK 2.2]">
+      <option name="closed" value="true" />
+      <created>1767675593482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1767675593482</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Feature Engineering  [BLOCK 2.3.2]">
+      <option name="closed" value="true" />
+      <created>1767678595780</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1767678595780</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Feauture_Engineering [BLOCK 2.3.1-2.3.3]">
+      <option name="closed" value="true" />
+      <created>1767681889966</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1767681889966</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Visualizations of dataset changes .">
+      <option name="closed" value="true" />
+      <created>1767687562782</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1767687562783</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Feature Engineering all Phases completed .">
+      <option name="closed" value="true" />
+      <created>1767702770040</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1767702770040</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +190,12 @@
     <MESSAGE value="Data Collecting Phase 1" />
     <MESSAGE value="Data Collecting Phase 1 [BLOCK 2.1]" />
     <MESSAGE value="Data Cleaning Phase 2 [BLOCK 2.2]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data Cleaning Phase 2 [BLOCK 2.2]" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/b12hub/AI_Project&#10;Phase 2 - Data Cleaning [BLOCK 2.2]" />
+    <MESSAGE value="Feature Engineering  [BLOCK 2.3.2]" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="Feauture_Engineering [BLOCK 2.3.1-2.3.3]" />
+    <MESSAGE value="Visualizations of dataset changes ." />
+    <MESSAGE value="Feature Engineering all Phases completed ." />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature Engineering all Phases completed ." />
   </component>
 </project>
