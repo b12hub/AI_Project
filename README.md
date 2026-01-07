@@ -188,6 +188,7 @@ This project enforces strict dataset immutability and versioning. Every transfor
 | **Feature v4** | `feature_data_v4.csv` | Risk-aware enrichment |
 | **Final** | `final_dataset.csv` | Audited & documented |
 | **Model-Ready** | `model_ready_data.csv` | Encoded & selection-ready |
+| **Optimized** |  `final_dataset_CLEANED.csv` | Cleaned & Optimizes | 
 
 ### Why This Matters
 
